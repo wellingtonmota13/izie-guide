@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Flat UI Free](http://designmodo.github.io/Flat-UI/)
 
 Flat UI is a beautiful theme for [Bootstrap](http://getbootstrap.com). We have redesigned many of its components to look flat in every pixel.
@@ -134,3 +135,6 @@ Facebook: <http://www.facebook.com/designmodo>
 RSS: <http://feeds.feedburner.com/designmodo>
 
 Google+: <https://www.google.com/+DesignModo>
+=======
+# izie-guide
+>>>>>>> 506d80311e86edac6f6259fa82228b27a7578931
